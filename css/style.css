@@ -28,6 +28,7 @@ h1 {
 }
 
 .controls {
+  width: 50%;
   background: #333;
   color: #fff;
   border-bottom-left-radius: 10px;
